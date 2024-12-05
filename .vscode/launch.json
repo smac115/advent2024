@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Day1",
+            "type": "go",
+            "request": "launch",
+            "mode": "debug",
+            "program": "day1/adventOfCode-Day1.go"
+        },
+        {
             "name": "Day2",
             "type": "go",
             "request": "launch",
